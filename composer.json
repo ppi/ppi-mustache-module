@@ -1,0 +1,30 @@
+{
+    "name": "ppi/mustache-module",
+    "description": "Mustache template engine module for PPI2",
+    "keywords": ["ppi", "mustache", "templating", "view"],
+    "homepage": "https://github.com/ppi/ppi-mustache-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul Dragoonis",
+            "email": "paul@ppi.io"
+        },
+        {
+            "name": "Vítor Brandão",
+            "email": "vitor@noiselabs.org"
+        }
+    ],
+    "support": {
+        "irc": "irc://irc.freenode.org/ppi",
+        "issues": "https://github.com/ppi/ppi-mustache-module/issues"
+    },
+    "require": {
+        "ppi/framework": "dev-2.1-noiselabs",
+        "mustache/mustache": ">=2.0.2,<2.1"
+    },
+    "autoload": {
+        "psr-0": { "PPI\\MustacheModule": "" }
+    },
+    "target-dir": "PPI/MustacheModule",
+    "minimum-stability": "dev"
+}
