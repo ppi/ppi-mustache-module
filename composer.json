@@ -19,7 +19,7 @@
         "issues": "https://github.com/ppi/ppi-mustache-module/issues"
     },
     "require": {
-        "ppi/framework": "dev-2.1-noiselabs",
+        "ppi/framework": "dev-develop",
         "mustache/mustache": ">=2.0.2,<2.1"
     },
     "autoload": {
