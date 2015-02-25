@@ -23,8 +23,7 @@
         "mustache/mustache": ">=2.0.2,<2.1"
     },
     "autoload": {
-        "psr-0": { "PPI\\MustacheModule": "" }
+        "psr-0": { "PPI\\MustacheModule\\": "src" }
     },
-    "target-dir": "PPI/MustacheModule",
     "minimum-stability": "dev"
 }
