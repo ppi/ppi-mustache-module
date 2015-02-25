@@ -36,6 +36,6 @@ class Module extends AbstractModule
      */
     public function getName()
     {
-        return 'MustacheModule';
+        return 'PPI\MustacheModule';
     }
 }

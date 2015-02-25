@@ -23,7 +23,7 @@
         "mustache/mustache": ">=2.0.2,<2.1"
     },
     "autoload": {
-        "psr-0": { "PPI\\MustacheModule\\": "src" }
+        "psr-4": { "PPI\\MustacheModule\\": "src" }
     },
     "minimum-stability": "dev"
 }
