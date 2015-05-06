@@ -19,7 +19,7 @@
         "issues": "https://github.com/ppi/ppi-mustache-module/issues"
     },
     "require": {
-        "ppi/framework": "2.1.*@dev",
+        "ppi/framework": "dev-master",
         "mustache/mustache": ">=2.0.2,<2.1"
     },
     "autoload": {
