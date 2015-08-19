@@ -19,7 +19,8 @@
         "issues": "https://github.com/ppi/ppi-mustache-module/issues"
     },
     "require": {
-        "mustache/mustache": ">=2.0.2,<2.1"
+        "mustache/mustache": ">=2.0.2,<2.1",
+        "ppi/framework": "~2.1.0-alpha2"
     },
     "autoload": {
         "psr-4": { "PPI\\MustacheModule\\": "src" }
